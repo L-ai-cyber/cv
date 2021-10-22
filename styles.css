@@ -1,0 +1,48 @@
+
+body {
+    background-color: rgb(196, 159, 134);
+}
+
+h1 {
+    font-family: fantasy;
+    color: rgb(66, 80, 75);
+}
+
+h3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(64, 57, 71);
+    font-size: larger;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(26, 31, 31);
+}
+
+hr {
+    height: 1px;
+    background-color: rgb(73, 47, 47);
+}
+
+a {
+    color: rgb(36, 48, 39);
+}
+
+table {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(21, 22, 22);
+}
+
+img {
+    border-radius: 50px;
+}
+
+ol {
+    color: rgb(27, 22, 54);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+ul {
+    color: rgb(73, 58, 39);
+    font-family: 'Times New Roman', Times, serif;
+}
